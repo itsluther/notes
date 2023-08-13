@@ -1,0 +1,8 @@
+Os Padrões Arquiteturais são semelhantes aos "Design Patterns", mas possuem um escopo diferente. Eles representam estratégias de alto nível relacionadas aos componentes de grande escala, as propriedades e mecanismos globais de um sistema. Enquanto os "Design Patterns" focam em soluções para problemas específicos no nível de objetos e classes, os Padrões Arquiteturais abordam desafios mais amplos relacionados à organização e estrutura do sistema como um todo.
+Um projeto de arquitetura pode envolver diversos estilos arquiteturais, e cada estilo arquitetural pode utilizar diversos padrões arquiteturais. Esses padrões atuam como soluções gerais e reutilizáveis para problemas comuns em contextos específicos. Eles são recorrentes, ou seja, são aplicáveis a problemas que surgem frequentemente em desenvolvimento de software, e proporcionam diretrizes que ajudam os arquitetos e desenvolvedores a projetar sistemas mais eficientes, escaláveis e manuteníveis.
+Os padrões arquiteturais são valiosos recursos para a comunidade de desenvolvimento, pois fornecem uma linguagem comum e abstrações que permitem discutir e comunicar ideias arquiteturais de forma mais clara e consistente. Além disso, ao aplicar esses padrões, é possível reduzir a complexidade do projeto e evitar a reinvenção da roda, aproveitando soluções testadas e comprovadas ao longo do tempo.
+Em suma, os Padrões Arquiteturais são ferramentas poderosas para os arquitetos de software, oferecendo soluções generalizadas para problemas recorrentes e contribuindo para a construção de sistemas sólidos, flexíveis e de alta qualidade.
+
+---
+Próxima anotação: [[47 - 3-Tier Architecture]]
+#arquitetura-de-software #padrões-arquiteturais

@@ -1,0 +1,13 @@
+### DRY - Don't Repeat Yourself
+O princípio DRY (Don't Repeat Yourself) enfatiza a importância de evitar a duplicação de código e informações dentro de um sistema. Isso significa que, se uma determinada peça de conhecimento, seja ela um trecho de código, uma regra de negócio ou qualquer outra coisa, estiver presente em mais de um lugar, ela deve ser consolidada em um local único. Isso não apenas evita inconsistências e erros, mas também facilita a manutenção, uma vez que as mudanças só precisam ser feitas em um único lugar. Além disso, a aderência ao princípio DRY promove a modularidade, a reutilização de código e a clareza do design.
+
+### KISS - Keep It Simple, Stupid
+O princípio KISS (Keep It Simple, Stupid) destaca a importância de manter as soluções e os projetos o mais simples possível. Isso não significa que o sistema deve ser simplório ou subdimensionado, mas sim que a complexidade desnecessária deve ser evitada. A simplicidade é valiosa porque facilita a compreensão, a manutenção e a evolução do software. Projetos complexos e complicados podem levar a problemas de escalabilidade, dificuldades na identificação de erros e aumento dos custos de desenvolvimento. Ao aderir ao princípio KISS, os desenvolvedores são encorajados a encontrar soluções simples e diretas para os problemas em vez de recorrer a abordagens excessivamente elaboradas.
+
+### YAGNI - You Ain't Gonna Need It
+O princípio YAGNI (You Ain't Gonna Need It) aconselha os desenvolvedores a resistir à tentação de adicionar funcionalidades ao código que ainda não são necessárias no momento atual. Isso ocorre porque a inclusão de recursos que não são imediatamente requeridos pode levar a uma maior complexidade, maior tempo de desenvolvimento e possivelmente a problemas não antecipados. Em vez de tentar prever todas as possíveis necessidades futuras, os desenvolvedores devem se concentrar nas necessidades atuais do projeto. Isso permite que o software permaneça enxuto, mais fácil de manter e mais eficiente. Caso novas funcionalidades se tornem necessárias posteriormente, elas podem ser adicionadas de forma mais informada e orientada.
+
+Ao aplicar esses princípios, os desenvolvedores buscam criar software mais robusto, manutenível e eficiente, promovendo um melhor ambiente de desenvolvimento e reduzindo a probabilidade de problemas decorrentes de complexidade desnecessária, duplicação de código ou recursos não utilizados.
+
+---
+#arquitetura-de-software 

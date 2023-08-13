@@ -1,0 +1,10 @@
+- Herança:
+	- Herança é um conceito em que uma classe pode herdar características e comportamentos de outra classe. A classe que herda é chamada de subclasse ou classe derivada, e a classe original é chamada de superclasse ou classe base. A subclasse pode adicionar ou sobrescrever os membros da superclasse, mas mantém a maioria das características e comportamentos da classe base.
+	- Por exemplo, podemos ter uma classe "Animal" como a superclasse e uma classe "Cachorro" como subclasse. A classe "Cachorro" pode herdar características como a capacidade de se mover, comer e respirar da classe "Animal", mas também pode adicionar comportamentos específicos de um cachorro, como latir, correr e perseguir objetos.
+- Composição:
+	- Composição é um conceito em que uma classe é composta por outras classes como parte de sua implementação. Em outras palavras, uma classe é composta de objetos de outras classes, que podem ser instanciados dentro da classe principal. Esses objetos são normalmente referenciados como membros ou atributos da classe.
+	- Por exemplo, podemos ter uma classe "Carro" que é composta por outros objetos, como um objeto "Motor", um objeto "Rodas", um objeto "Transmissão", etc. Esses objetos podem ser instanciados dentro da classe "Carro" e referenciados como seus membros. Dessa forma, a classe "Carro" pode delegar tarefas específicas para esses objetos especializados e manter uma separação clara de responsabilidades.
+- A distinção entre herança e composição é importante porque ambas as técnicas podem ser usadas para criar classes mais flexíveis e reutilizáveis. A herança é útil quando queremos criar uma nova classe com base em uma classe existente, mas com algumas modificações específicas. A composição é útil quando queremos criar uma nova classe que é composta de vários objetos especializados, cada um com sua própria responsabilidade.
+---
+Próxima anotação: [[20 - Encapsulamento]]
+#arquitetura-de-software #poo

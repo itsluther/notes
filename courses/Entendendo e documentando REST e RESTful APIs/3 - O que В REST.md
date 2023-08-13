@@ -1,0 +1,39 @@
+- **O que é REST?** 
+	- O termo transferência de estado representacional - **REST (Representational State Transfer)** foi introduzido e definido no ano de 2000 através de uma **tese de Ph. D** do cientista **Roy Fielding**, um dos **principais autores** da especificação do protocolo **HTTP**.
+	- O intuito geral da tese era a **formalização** de um conjunto de **melhores práticas** denominadas **constraints**.
+	- Essas **constraints** tinha como objetivo determinar a forma na qual padrões como **HTTP** e **URI** deveriam ser modelados, aproveitando de fato todos os recursos oferecidos pelos mesmos.
+- **Constraints**
+	- **Cliente-Servidor**
+		- A principal característica dessa constraint é **separar as responsabilidades** de diferentes partes de um sistema.
+		- Essa divisão pode se dar de diversas formas, iniciando por exemplo com uma separação entre mecanismos da **interface do usuário** e o **back-end** da aplicação.
+		- Isso nos permite a evolução e **escabilidade** destas responsabilidades **de forma independente**.
+	- **Stateless (Sem Estado)**
+		- Essa característica propõe que **cada requisição** ao servidor **não deve ter ligação com requisições anteriores ou futuras**, ou seja, cada requisição deve conter todas as informações necessárias para que ela seja tratada com sucesso pelo servidor.
+	- **Cache**
+		- Para uma melhor performance, um sistema **REST** deve **permitir** que suas respostas sejam passíveis de **cache**.
+		- Sobre: https://br.godaddy.com/blog/o-que-e-cache/
+	- **Interface Uniforme**
+		- Bastante esforço deve ser feito para que o sistema possua uma **interface modelada** seguindo alguns padrões importantes.
+		- Quando se fala sobre interface, os elementos abaixo devem ser considerados:
+			- **Recursos;**
+			- **Mensagens autodescritivas;**
+			- **Hypermedia.**
+		- Devemos pensar em criar uma interface que permita a manipulação desses conceitos. Veja o exemplo:
+			- **Entidade:**
+				- Cliente
+			- **Operações:**
+				- Criar
+				- Editar
+				- Deletar
+				- Pesquisar
+	- **Sistemas de Camadas**
+		- Com o intuito de permitir a escalabilidade necessária para grandes sistemas distribuídos, um sistema REST deve ter capacidade de adicionar elementos intermediários e que sejam totalmente transparentes para seus clientes.
+			- Ex: Balanceador de Carga
+	- **Código Sob Demanda (Opcional)**
+		- A ideia é aumentar a flexibilidade dos clientes, como por exemplo um código JavaScript que só é baixado quando uma determinada página é carregada.
+		- Apesar de ser algo interessante, essa prática **reduz a visibilidade**, por isso essa é uma prática opcional.
+---
+Próxima anotação: [[4 - REST vs RESTful representações]]
+
+---
+#rest #restful #api
