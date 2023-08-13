@@ -4,7 +4,7 @@ Sistema síncrono (synchronous), uma tarefa é concluída após a outra.
 - Por padrão, o Javascript é um sistema síncrono.
 ---
 # Assíncrono
-Num sistema assíncrono (asynchronous), tarefas são executadas de maneira independete de uma da outra.
-- O Javascript pderá usar o assincronismo ao seu favor.
+Num sistema assíncrono (asynchronous), tarefas são executadas de maneira independente de uma da outra.
+- O Javascript poderá usar o assincronismo ao seu favor.
 ---
 #javascript 

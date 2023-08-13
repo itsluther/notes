@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "3e439f256e0f0b5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef1106f727c29fd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75dc94e9d376491c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming-languages/JavaScript/Currying.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2741ad0eb6d7fd4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "363be5512f81fd59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9afb95b93c5f5dc5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2522ce8d363d9809",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c84941b7f65d5db3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 493.5
+  },
+  "right": {
+    "id": "34b770797b355c1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c2c9cd7fc77a6ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b9dfd606e193bfa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "programming-languages/JavaScript/Currying.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "609ad2b98dc3c370",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "programming-languages/JavaScript/Currying.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a661e05ab943cc4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0cdd065752285635",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "programming-languages/JavaScript/Currying.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "75dc94e9d376491c",
+  "lastOpenFiles": [
+    "programming-languages/JavaScript/Programação Funcional in JavaScript/Stateless.md",
+    "programming-languages/JavaScript/Programação Funcional in JavaScript/Programação Imperativa e Declarativa.md",
+    "programming-languages/JavaScript/Programação Funcional in JavaScript/O que é programação funcional.md",
+    "programming-languages/JavaScript/Programação Funcional in JavaScript/Funções puras.md",
+    "programming-languages/JavaScript/Programação Funcional in JavaScript/Funções independentes.md",
+    "programming-languages/JavaScript/Programação Funcional in JavaScript/Composição de funções.md",
+    "programming-languages/JavaScript/Assíncrono e Promise/Síncrono vs Assíncrono.md",
+    "english/Roadmap.md",
+    "courses/Modelagem de Dados UML/Identificação de conceitos e atributos.md",
+    "courses/Modelagem de Dados UML/Associações.md",
+    "courses/Entendendo e documentando REST e RESTful APIs/26 - JWT (JSON Web Tokens).md",
+    "courses/Entendendo e documentando REST e RESTful APIs/25 - Stateless Authentication (com OAuth).md",
+    "courses/Entendendo e documentando REST e RESTful APIs/24 - Autenticação baseada em Token.md",
+    "courses/Entendendo e documentando REST e RESTful APIs/23 - Autenticação com HTTP.md",
+    "courses/Entendendo e documentando REST e RESTful APIs/22 - Identificação x Autenticação x Autorização.md",
+    "courses/Entendendo e documentando REST e RESTful APIs/21 - Autenticação.md",
+    "courses/Entendendo e documentando REST e RESTful APIs/20 - Cache com diferentes tipos de representações.md",
+    "courses/Entendendo e documentando REST e RESTful APIs/10 - Safe Methods e Métodos Idempotentes.md",
+    "courses/Entendendo e documentando REST e RESTful APIs/9 - Métodos HTTP - Parte 2.md",
+    "courses/Entendendo e documentando REST e RESTful APIs/8 - Métodos HTTP - Parte 1.md",
+    "courses/Entendendo e documentando REST e RESTful APIs/4 - REST vs RESTful representações.md",
+    "courses/Entendendo e documentando REST e RESTful APIs/3 - O que é REST.md",
+    "courses/Entendendo e documentando REST e RESTful APIs/1 - O que é uma API Application.md",
+    "courses/Full Cycle/Docker/08 - Otimização de imagens utilizando Multistage Building.md",
+    "courses/Full Cycle/Docker/01 - Introdução ao Docker.md",
+    "courses/Entendendo e documentando REST e RESTful APIs/_imagens/Pasted image 20230218084228.png",
+    "courses/Entendendo e documentando REST e RESTful APIs/_imagens/Pasted image 20230226193659.png",
+    "courses/Domínios Ricos (Modelagem de domínios)/1 - Visão Geral do DDD/03 - Visão Global do DDD.md"
+  ]
+}
