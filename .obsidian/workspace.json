@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming-languages/JavaScript/Currying.md",
+                "file": "courses/Arquitetura de Software/1 - Perfis/3 - Arquiteto Corporativo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming-languages/JavaScript/Currying.md",
+                "file": "courses/Arquitetura de Software/1 - Perfis/3 - Arquiteto Corporativo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming-languages/JavaScript/Currying.md",
+                "file": "courses/Arquitetura de Software/1 - Perfis/3 - Arquiteto Corporativo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming-languages/JavaScript/Currying.md"
+                "file": "courses/Arquitetura de Software/1 - Perfis/3 - Arquiteto Corporativo.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "75dc94e9d376491c",
   "lastOpenFiles": [
+    "courses/Arquitetura de Software/1 - Perfis/2 - Perfis de arquitetos.md",
+    "courses/Arquitetura de Software/1 - Perfis/1 - O que é arquitetura.md",
+    "programming-languages/JavaScript/Currying.md",
     "programming-languages/JavaScript/Programação Funcional in JavaScript/Stateless.md",
     "programming-languages/JavaScript/Programação Funcional in JavaScript/Programação Imperativa e Declarativa.md",
     "programming-languages/JavaScript/Programação Funcional in JavaScript/O que é programação funcional.md",
@@ -171,10 +174,7 @@
     "courses/Entendendo e documentando REST e RESTful APIs/4 - REST vs RESTful representações.md",
     "courses/Entendendo e documentando REST e RESTful APIs/3 - O que é REST.md",
     "courses/Entendendo e documentando REST e RESTful APIs/1 - O que é uma API Application.md",
-    "courses/Full Cycle/Docker/08 - Otimização de imagens utilizando Multistage Building.md",
-    "courses/Full Cycle/Docker/01 - Introdução ao Docker.md",
     "courses/Entendendo e documentando REST e RESTful APIs/_imagens/Pasted image 20230218084228.png",
-    "courses/Entendendo e documentando REST e RESTful APIs/_imagens/Pasted image 20230226193659.png",
-    "courses/Domínios Ricos (Modelagem de domínios)/1 - Visão Geral do DDD/03 - Visão Global do DDD.md"
+    "courses/Entendendo e documentando REST e RESTful APIs/_imagens/Pasted image 20230226193659.png"
   ]
 }
