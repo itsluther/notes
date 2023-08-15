@@ -15,6 +15,4 @@
 	- Enquanto **URIs** são limitados a um subconjunto do conjunto de caracteres ASCII, **IRIs** podem conter caracteres do Conjunto Universal de Caracteres (Universal Character Set - Unicode/ISO 10646).
 ---
 Próxima anotação: [[3 - O que é REST]]
-
----
 #rest #restful #api 
