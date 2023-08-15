@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dc98ac974da696a0",
+        "id": "e187695a90f0d531",
         "type": "tabs",
         "children": [
           {
-            "id": "2490782287e470ac",
+            "id": "a871b3628dcb14de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/08 - Dicas essenciais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0962f0b8a92b7296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/09 - Context Map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c662a0a5cedcd436",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/10 - Bounded Context.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70fbf75f7947f69a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/11 - Definindo contextos delimitados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71622bcb655e3d79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/12 - Modelo de negócio vs modelo de domínio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a7e39e89258d4ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/13 - Integridade do modelo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "350944de6b978456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/udemy/Entendendo e documentando REST e RESTful APIs/2 - Resource, URI, URL, URN, IRI.md",
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/14 - Tipos de relacionamento entre contextos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 264.5
   },
   "right": {
     "id": "34b770797b355c1b",
@@ -158,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/udemy/Entendendo e documentando REST e RESTful APIs/2 - Resource, URI, URL, URN, IRI.md",
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/14 - Tipos de relacionamento entre contextos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/udemy/Entendendo e documentando REST e RESTful APIs/2 - Resource, URI, URL, URN, IRI.md",
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/14 - Tipos de relacionamento entre contextos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/udemy/Entendendo e documentando REST e RESTful APIs/2 - Resource, URI, URL, URN, IRI.md"
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/14 - Tipos de relacionamento entre contextos.md"
               }
             }
           }
@@ -221,6 +148,22 @@
   },
   "active": "9afb95b93c5f5dc5",
   "lastOpenFiles": [
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/13 - Integridade do modelo em risco.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/14 - Tipos de relacionamento entre contextos.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815131909.png",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/12 - Modelo de negócio vs modelo de domínio.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815135242.png",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815135159.png",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815135132.png",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815132814.png",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/11 - Definindo contextos delimitados.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815131939.png",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/10 - Bounded Context.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/09 - Context Map.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/08 - Dicas essenciais.md",
+    "courses/udemy/Entendendo e documentando REST e RESTful APIs/2 - Resource, URI, URL, URN, IRI.md",
     "courses/udemy",
     "courses/desenvolvedor-io",
     "courses/udemy/Entendendo e documentando REST e RESTful APIs/1 - O que é uma API Application.md",
@@ -236,13 +179,6 @@
     "random-notes/CGroups.md",
     "languages",
     "english/languages",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/14 - Tipos de relacionamento entre contextos.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/13 - Integridade do modelo.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/12 - Modelo de negócio vs modelo de domínio.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/11 - Definindo contextos delimitados.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/10 - Bounded Context.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/09 - Context Map.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/08 - Dicas essenciais.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/Bônus - Exemplo de documentação da linguagem ubíqua.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/04 - Introdução Linguagem Ubíqua.md",
@@ -250,7 +186,6 @@
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/06 - Como extrair e definir a linguagem ubíqua.md",
     "courses/desenvolvedor-io/Arquitetura de Software/8 - Arquitetura de Software/51 - Event Sourcing.md",
     "courses/desenvolvedor-io/Arquitetura de Software/8 - Arquitetura de Software/50 - CQRS Query Responsibility Segregation.md",
-    "courses/desenvolvedor-io/Arquitetura de Software/8 - Arquitetura de Software/46 - Padrões Arquiteturais.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua",
     "courses/udemy/Entendendo e documentando REST e RESTful APIs/_imagens/Pasted image 20230218084228.png",
     "courses/udemy/Entendendo e documentando REST e RESTful APIs/_imagens/Pasted image 20230226193659.png"
