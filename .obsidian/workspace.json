@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e187695a90f0d531",
+        "id": "2b71d21b6f4ecc7e",
         "type": "tabs",
         "children": [
           {
-            "id": "a871b3628dcb14de",
+            "id": "df5f39b789eacc54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/14 - Tipos de relacionamento entre contextos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/14 - Tipos de relacionamento entre contextos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/14 - Tipos de relacionamento entre contextos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/14 - Tipos de relacionamento entre contextos.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9afb95b93c5f5dc5",
+  "active": "df5f39b789eacc54",
   "lastOpenFiles": [
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/13 - Integridade do modelo em risco.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/14 - Tipos de relacionamento entre contextos.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/15 - A evolução dos estilos arquiteturais.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/13 - Integridade do modelo em risco.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815131909.png",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/12 - Modelo de negócio vs modelo de domínio.md",
