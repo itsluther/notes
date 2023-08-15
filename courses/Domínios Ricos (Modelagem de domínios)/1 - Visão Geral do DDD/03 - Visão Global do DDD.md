@@ -22,5 +22,5 @@
 Essas etapas formam uma abordagem iterativa, à medida que você continua refinando seu entendimento e modelo do domínio.
 
 ---
-Próxima anotação: [[04 - ]]
+Próxima anotação: [[04 - Introdução Linguagem Ubíqua]]
 #domínios-ricos  #ddd 

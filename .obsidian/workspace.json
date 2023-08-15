@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ef1106f727c29fd1",
+        "id": "dc98ac974da696a0",
         "type": "tabs",
         "children": [
           {
-            "id": "75dc94e9d376491c",
+            "id": "2490782287e470ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Arquitetura de Software/1 - Perfis/3 - Arquiteto Corporativo.md",
+                "file": "courses/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/08 - Dicas essenciais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0962f0b8a92b7296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/09 - Context Map.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493.5
+    "width": 404.5
   },
   "right": {
     "id": "34b770797b355c1b",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Arquitetura de Software/1 - Perfis/3 - Arquiteto Corporativo.md",
+                "file": "courses/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/09 - Context Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Arquitetura de Software/1 - Perfis/3 - Arquiteto Corporativo.md",
+                "file": "courses/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/09 - Context Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Arquitetura de Software/1 - Perfis/3 - Arquiteto Corporativo.md"
+                "file": "courses/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/09 - Context Map.md"
               }
             }
           }
@@ -146,8 +159,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "75dc94e9d376491c",
+  "active": "9afb95b93c5f5dc5",
   "lastOpenFiles": [
+    "courses/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica",
+    "courses/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/08 - Dicas essenciais.md",
+    "courses/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/09 - Context Map.md",
+    "courses/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/04 - Introdução Linguagem Ubíqua.md",
+    "courses/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/07 - Como gerenciar a linguagem ubíqua.md",
+    "courses/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/06 - Como extrair e definir a linguagem ubíqua.md",
+    "courses/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/Bônus - Exemplo de documentação da linguagem ubíqua.md",
+    "courses/Arquitetura de Software/8 - Arquitetura de Software/51 - Event Sourcing.md",
+    "courses/Arquitetura de Software/8 - Arquitetura de Software/50 - CQRS Query Responsibility Segregation.md",
+    "courses/Arquitetura de Software/8 - Arquitetura de Software/46 - Padrões Arquiteturais.md",
+    "courses/Domínios Ricos (Modelagem de domínios)/1 - Visão Geral do DDD/03 - Visão Global do DDD.md",
+    "courses/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/05 - Papeis dentro de um projeto.md",
+    "courses/Domínios Ricos (Modelagem de domínios)/1 - Visão Geral do DDD/02 - Quando eu devo implementar o DDD.md",
+    "courses/Domínios Ricos (Modelagem de domínios)/1 - Visão Geral do DDD/01 - DDD não é uma arquitetura de camadas.md",
+    "courses/Arquitetura de Software/1 - Perfis/3 - Arquiteto Corporativo.md",
+    "courses/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua",
     "courses/Arquitetura de Software/1 - Perfis/2 - Perfis de arquitetos.md",
     "courses/Arquitetura de Software/1 - Perfis/1 - O que é arquitetura.md",
     "programming-languages/JavaScript/Currying.md",
@@ -159,21 +188,6 @@
     "programming-languages/JavaScript/Programação Funcional in JavaScript/Composição de funções.md",
     "programming-languages/JavaScript/Assíncrono e Promise/Síncrono vs Assíncrono.md",
     "english/Roadmap.md",
-    "courses/Modelagem de Dados UML/Identificação de conceitos e atributos.md",
-    "courses/Modelagem de Dados UML/Associações.md",
-    "courses/Entendendo e documentando REST e RESTful APIs/26 - JWT (JSON Web Tokens).md",
-    "courses/Entendendo e documentando REST e RESTful APIs/25 - Stateless Authentication (com OAuth).md",
-    "courses/Entendendo e documentando REST e RESTful APIs/24 - Autenticação baseada em Token.md",
-    "courses/Entendendo e documentando REST e RESTful APIs/23 - Autenticação com HTTP.md",
-    "courses/Entendendo e documentando REST e RESTful APIs/22 - Identificação x Autenticação x Autorização.md",
-    "courses/Entendendo e documentando REST e RESTful APIs/21 - Autenticação.md",
-    "courses/Entendendo e documentando REST e RESTful APIs/20 - Cache com diferentes tipos de representações.md",
-    "courses/Entendendo e documentando REST e RESTful APIs/10 - Safe Methods e Métodos Idempotentes.md",
-    "courses/Entendendo e documentando REST e RESTful APIs/9 - Métodos HTTP - Parte 2.md",
-    "courses/Entendendo e documentando REST e RESTful APIs/8 - Métodos HTTP - Parte 1.md",
-    "courses/Entendendo e documentando REST e RESTful APIs/4 - REST vs RESTful representações.md",
-    "courses/Entendendo e documentando REST e RESTful APIs/3 - O que é REST.md",
-    "courses/Entendendo e documentando REST e RESTful APIs/1 - O que é uma API Application.md",
     "courses/Entendendo e documentando REST e RESTful APIs/_imagens/Pasted image 20230218084228.png",
     "courses/Entendendo e documentando REST e RESTful APIs/_imagens/Pasted image 20230226193659.png"
   ]
