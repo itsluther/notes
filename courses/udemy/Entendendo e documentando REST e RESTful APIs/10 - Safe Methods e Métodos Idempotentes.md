@@ -1,21 +1,24 @@
-- **Safe Methods**
-	- São métodos que são considerados "**salvos**". Eles não fazem nenhum efeito de qualquer um dos lados (cliente/servidor).
-	- Você pode até implementar algo para quando um safe method for chamado, como por exemplo atualizar o contador de um usuário, mas, o cliente não pode ser o responsável por essa alteração.
-	- Os Safe Methods são:
-		- GET
-		- HEAD
-- **Métodos Idempotentes**
-	- *Idempotência* é uma propriedade de algumas operações matemáticas e da ciência da computação, que quando "rodadas" múltiplas vezes o resultado não será alterado depois da primeira vez.
-	- O impacto de enviar 10 requisições HTTP para um método idempotente será o mesmo de se enviar apenas uma única requisição.
-	- Os métodos idempotentes são:
-		- GET
-		- HEAD
-		- PUT
-		- DELETE
-		- OPTIONS
-		- TRACE
----
-Próxima anotação: [[11 - Modelo de maturidade Richardson - Parte 1]]
+Ao projetar e trabalhar com APIs RESTful, é importante compreender os conceitos de métodos seguros (Safe Methods) e métodos idempotentes, pois eles influenciam o comportamento e a semântica das operações que podem ser realizadas nos recursos.
+
+**Safe Methods (Métodos Seguros):**
+- São métodos considerados "seguros" porque não causam alterações nos recursos.
+- Qualquer implementação específica pode ter efeitos secundários (como atualizar contadores), mas o cliente não deve depender disso.
+- Métodos Safe:
+    - GET: Obtém informações do servidor.
+    - HEAD: Obtém informações do servidor sem o corpo da resposta.
+
+**Métodos Idempotentes:**
+- A idempotência é uma propriedade matemática e de ciência da computação que descreve operações em que aplicar a operação múltiplas vezes resulta no mesmo estado do que se aplicada apenas uma vez.
+- Ao aplicar um método idempotente várias vezes, o resultado será o mesmo que aplicá-lo apenas uma vez.
+- Métodos Idempotentes:
+    - GET: Obtém informações do servidor.
+    - HEAD: Obtém informações do servidor sem o corpo da resposta.
+    - PUT: Atualiza ou cria um recurso.
+    - DELETE: Remove um recurso.
+    - OPTIONS: Obtém informações sobre os métodos suportados em um recurso.
+    - TRACE: Permite ao cliente ver a transformação da requisição através de servidores intermediários.
+
+Compreender a distinção entre métodos seguros, métodos idempotentes e outros métodos HTTP é crucial para a construção de APIs RESTful que se comportam de maneira previsível e que seguem as diretrizes e as boas práticas do protocolo HTTP. Isso ajuda a garantir a consistência e a confiabilidade das operações realizadas na aplicação.
 
 ---
-#rest #restful #api #curl #http
+[[11 - Modelo de maturidade Richardson - Parte 1]] - #rest #restful #api #curl #http

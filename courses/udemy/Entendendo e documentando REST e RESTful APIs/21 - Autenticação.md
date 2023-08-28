@@ -1,14 +1,30 @@
-- Autenticação é uma parte importante qualquer aplicação Web moderna, ela tem missão de identificar quem está usando a aplicação e se ela tem permissão para usá-la.
-- **Cookies** são criados para permitir o servidor gravar e manter os estados (**stateful**), o que é completamente contrário ao que o REST propõe (**stateless**), ou seja uma requisição não depende da outra.
-- A ideia por trás do **stateless** é permitir aplicações web mais escaláveis e de fácil caching para serem mais efetivas.
-- O padrão do esquema de autenticação HTTP **basic** e através de **digest** são stateless, mas, atualmente muitas empresas precisam identificar seus usuários e querem diminuir a barreira para que eles usem seus produtos. Isso significa não ficar pedindo a senha do usuário frequentemente, de preferência apenas uma única vez.
-- Quando uma aplicação web oferece ferramentas para outras aplicações web através de API, a autenticação pode ser feita através de uma **API Key** ou **API secret token** como são conhecidas.
-- Em resumo, uma API Key é uma combinação de letras e números bem grande, como um hash, e fica sendo transmitida em todas as requisições para identificar aplicação e geralmente é combinada com um email/senha.
-- Como estas API Keys trafegam entre o servidor e o cliente, é importante que o servidor tenha configurado os **certificados SSL** (https://letsencrypt.org) para garantir a maior segurança possível.
-- Diferentemente de aplicações, quando um usuário utiliza um serviço ele também deve ser identificado, geralmente com seu email/senha, mas, enviar esses dados a cada requisição com certeza não é o ideal.
-- Para tal, uma das soluções é no momento em que o usuário faz o login, o mesmo recebe um token baseados em suas credenciais e daí pra frente o token servirá de identificação nas próximas requisições.
----
-Próxima anotação: [[22 - Identificação x Autenticação x Autorização]]
+**Autenticação em APIs RESTful**
+A autenticação desempenha um papel crucial em qualquer aplicação web moderna, sendo responsável por identificar os usuários e garantir suas permissões de acesso. No contexto das APIs RESTful, é importante estabelecer mecanismos de autenticação eficazes para proteger os recursos e controlar o acesso.
+
+**Cookies e o Desafio Stateful vs. Stateless:**
+Embora os **cookies** sejam amplamente utilizados para manter estados (stateful) em aplicações web tradicionais, isso entra em conflito com o princípio **stateless** do REST, onde cada requisição é independente. A abordagem **stateless** visa a escalabilidade e o caching eficiente, o que é fundamental para a arquitetura REST.
+
+**Autenticação Stateless e API Keys:**
+Para atender à necessidade de identificar usuários e reduzir barreiras, os esquemas de autenticação HTTP, como o **Basic** e o **Digest**, podem ser usados de maneira **stateless**. No entanto, em APIs que disponibilizam acesso a outras aplicações, é comum utilizar **API Keys** ou **API secret tokens**.
+
+Uma **API Key** é uma combinação alfanumérica (hash) que identifica a aplicação. Ela é incluída em todas as requisições para autenticação, geralmente combinada com um email/senha. É crucial que as requisições sejam feitas através de **HTTPS** (SSL) para garantir a segurança da API Key durante a transmissão.
+
+**Token-Based Authentication:**
+Para autenticar usuários de forma mais segura e eficiente, especialmente em serviços web, o uso de **tokens** é uma abordagem comum. Ao fazer login, o usuário recebe um token baseado em suas credenciais. Esse token é então enviado nas requisições subsequentes, atuando como um identificador de autenticação. Isso evita a necessidade de enviar email/senha a cada requisição.
+
+Ao adotar essa abordagem, é importante gerar tokens com prazos de validade limitados e implementar mecanismos de renovação. Além disso, as práticas de segurança, como o uso de algoritmos de criptografia adequados e a proteção contra ataques de força bruta, devem ser seguidas.
+
+**Em Resumo:**
+- A autenticação é fundamental em aplicações web, incluindo APIs RESTful.
+- No contexto REST, é importante manter a abordagem **stateless** para escalabilidade e eficiência.
+- Autenticação através de **API Keys** é comum para identificar aplicações.
+- **Token-Based Authentication** é eficaz para autenticar usuários, minimizando o uso de credenciais.
+- A segurança, incluindo SSL, criptografia e proteção contra ataques, é essencial para ambas as abordagens.
+
+Fontes de Informação:
+- [Using API Keys](https://cloud.google.com/endpoints/docs/openapi/when-where-use-api-keys)
+- [Token-Based Authentication](https://auth0.com/docs/tokens/token-authentication)
+- [API Security: Deep Dive into OAuth and JWT](https://auth0.com/blog/api-security-deep-dive-into-oauth-jwt-part-1/)
 
 ---
-#rest #restful #api #autenticação
+[[22 - Identificação x Autenticação x Autorização]] - #rest #restful #api #autenticação

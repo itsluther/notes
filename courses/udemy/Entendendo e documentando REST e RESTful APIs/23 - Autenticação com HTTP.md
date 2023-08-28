@@ -1,25 +1,26 @@
-- Os mecanismos padrões de autenticação com HTTP são definidos como **Basic** e **Digest** (resumida).
-- Esses dois mecanismos foram projetados seguindo as constraints REST, ou seja, eles são stateless
-- Nesses dois mecanismos o conjunto usuário/senha é incluído em cada requisição
-	- **Codificado em *Base64*** para autenticação **Basic**
-	- **Codificado em *hash MD5*** para a autenticação **Digest**
-- A definição do funcionamento da autenticação em HTTP pode ser encontrada em:
-	- https://tools.ietf.org/html/rfc2617
-- A documentação informa que para uma autenticação o cliente deve enviar o header **Authorization** no seguinte formato:
-	- `Authorization: auth-scheme hashed-credentials`
-- **Autenticação Basic**
-	- `Authorization: Basic am9objpwYXNz`
-	- Para fazer uma requisição de autenticação básica HTTP via cURL teríamos:
-		- `curl -u user:pass http://example.com`
-- **Autenticação Digest**
-	- `Authorization: Digest 2ac75c760bd3ea55c5ce4c83a6bad1d7`
-	- Para fazer uma requisição autenticação HTTP do tipo Digest, teríamos
-		- `curl --digest -u user:pass http://example.com`
-- Em retorno à requisição feita com o header Authorization, caso as credenciais não sejam autorizadas, o servidor deve retornar o status code **401 Unauthorized** e setar o header **WWW-Authenticate** com o **tipo de autenticação** que deve ser usado e **qual o domínio** (realm).
-	- `WWW-Authenticate: Basic realm="Perfil"`
-- A diretiva de domínio "**realm**" é opcional e indica a proteção de um determinado espaço, pois uma mesma aplicação pode-se ter diferentes áreas protegidas usando diferente esquemas de autenticação.
----
-Próxima anotação: [[24 - Autenticação baseada em Token]]
+A autenticação é uma parte crítica da segurança em comunicações via HTTP, e dois mecanismos de autenticação padrão são **Basic** e **Digest**. Ambos foram projetados para operar no contexto das constraints REST, mantendo a natureza stateless das interações HTTP.
+
+**Autenticação Basic:**
+No esquema de autenticação **Basic**, as credenciais do usuário (nome de usuário e senha) são codificadas em formato **Base64** e incluídas no cabeçalho **Authorization** de cada requisição. A estrutura é a seguinte:
+
+`Authorization: Basic base64-encoded-credentials`
+
+Por exemplo, usando o cURL, uma requisição de autenticação básica seria:
+
+`curl -u user:pass http://example.com`
+
+Se as credenciais fornecidas não forem autorizadas, o servidor responde com um status code **401 Unauthorized** e inclui o header **WWW-Authenticate** para indicar o tipo de autenticação e o domínio protegido.
+
+`HTTP/1.1 401 Unauthorized WWW-Authenticate: Basic realm="Perfil"`
+
+**Autenticação Digest:**
+No esquema de autenticação **Digest**, em vez de enviar as credenciais diretamente, o cliente envia um hash de desafio. O servidor responde com um desafio, o cliente cria um hash a partir das credenciais combinadas com o desafio e envia esse hash para o servidor. Isso evita que as credenciais sejam enviadas em texto claro.
+
+`curl --digest -u user:pass http://example.com`
+
+A resposta do servidor incluirá um **Nonce**, que é um valor único utilizado para proteger contra ataques de repetição. O cliente então cria um hash com base nas credenciais, no método HTTP, no URI e no nonce, e envia esse hash para o servidor.
+
+Ambos os métodos têm vantagens e desvantagens, e a escolha entre eles depende dos requisitos de segurança e da compatibilidade com o servidor e cliente. Em geral, a autenticação Digest oferece maior segurança, mas também é mais complexa de implementar do que a autenticação Basic.
 
 ---
-#rest #restful #api #autenticação
+[[24 - Autenticação baseada em Token]] - #rest #restful #api #autenticação

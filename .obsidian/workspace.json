@@ -4,18 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "2b71d21b6f4ecc7e",
+        "id": "acf7de51130739d8",
         "type": "tabs",
         "children": [
           {
-            "id": "df5f39b789eacc54",
+            "id": "0a0b9bc93aaf6a10",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/15 - A evolução dos estilos arquiteturais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3633c5fa53c4b2ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/16 - Definindo um estilo arquitetural.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97ac02fbdf8a3aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/17 - Transaction Script Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cbcf74f2773e34c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/18 - Table Module Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b947198a6c7cf3ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/19 - Domain Model Pattern.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/19 - Domain Model Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/19 - Domain Model Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/19 - Domain Model Pattern.md"
+              }
             }
           }
         ]
@@ -138,47 +195,48 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "df5f39b789eacc54",
+  "active": "9afb95b93c5f5dc5",
   "lastOpenFiles": [
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/14 - Tipos de relacionamento entre contextos.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/18 - Table Module Pattern.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/19 - Domain Model Pattern.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/15 - A evolução dos estilos arquiteturais.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/13 - Integridade do modelo em risco.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/17 - Transaction Script Pattern.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/16 - Definindo um estilo arquitetural.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230828134155.png",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/14 - Tipos de relacionamento entre contextos.md",
+    "courses/udemy/Entendendo e documentando REST e RESTful APIs/13 - Modelo de maturidade Richardson - Parte 3.md",
+    "courses/udemy/Entendendo e documentando REST e RESTful APIs/1 - O que é uma API Application.md",
+    "courses/udemy/Modelagem de Dados UML/Associações.md",
+    "courses/desenvolvedor-io/Arquitetura de Software/3 - OOP/16 - Polimorfismo.md",
+    "courses/desenvolvedor-io/Arquitetura de Software/3 - OOP/15 - Abstração.md",
+    "courses/desenvolvedor-io/Arquitetura de Software/3 - OOP/12 - OOP - Pilares da programação orientada a objetos.md",
+    "courses/udemy/Entendendo e documentando REST e RESTful APIs/3 - O que é REST.md",
+    "courses/udemy/Entendendo e documentando REST e RESTful APIs/2 - Resource, URI, URL, URN, IRI.md",
+    "linguagens-de-programação/JavaScript/Methods/Method Filter.md",
+    "courses/udemy/Modelagem de Dados UML/O que é modelagem de domínio e modelagem conceitual.md",
+    "random-notes/CGroups.md",
+    "courses/udemy/Modelagem de Dados UML/Multiplicidade.md",
+    "courses/udemy/Modelagem de Dados UML/Modelo Conceitual - Conceitos e atributos.md",
+    "courses/udemy/Modelagem de Dados UML/Identificação de conceitos e atributos.md",
+    "courses/udemy/Entendendo e documentando REST e RESTful APIs/11 - Modelo de maturidade Richardson - Parte 1.md",
+    "Pasted image 20221017134530.png.md",
+    "courses/udemy/Entendendo e documentando REST e RESTful APIs/26 - JWT (JSON Web Tokens).md",
+    "courses/udemy/Entendendo e documentando REST e RESTful APIs/25 - Stateless Authentication (com OAuth).md",
+    "courses/udemy/Entendendo e documentando REST e RESTful APIs/24 - Autenticação baseada em Token.md",
+    "courses/udemy/Entendendo e documentando REST e RESTful APIs/23 - Autenticação com HTTP.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815131909.png",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/12 - Modelo de negócio vs modelo de domínio.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815135242.png",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815135159.png",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815135132.png",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815132814.png",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/11 - Definindo contextos delimitados.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815131939.png",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/10 - Bounded Context.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/09 - Context Map.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/08 - Dicas essenciais.md",
-    "courses/udemy/Entendendo e documentando REST e RESTful APIs/2 - Resource, URI, URL, URN, IRI.md",
     "courses/udemy",
     "courses/desenvolvedor-io",
-    "courses/udemy/Entendendo e documentando REST e RESTful APIs/1 - O que é uma API Application.md",
-    "courses/udemy/Modelagem de Dados UML/Associações.md",
-    "courses/full-cycle/Docker/08 - Otimização de imagens utilizando Multistage Building.md",
-    "courses/full-cycle/Docker/07 - Tipos de Network.md",
-    "courses/full-cycle/Docker/06 - Subir imagens para Docker Hub.md",
-    "courses/full-cycle/Docker/05 - ENTRYPOINT vs CMD.md",
-    "courses/full-cycle/Docker/04 - Volumes.md",
-    "courses/full-cycle/Docker/03 - Bind Mounts.md",
-    "courses/full-cycle/Docker/02 - Portas.md",
-    "courses/full-cycle/Docker/01 - Introdução ao Docker.md",
-    "random-notes/CGroups.md",
-    "languages",
+    "idiomas",
     "english/languages",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/Bônus - Exemplo de documentação da linguagem ubíqua.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/04 - Introdução Linguagem Ubíqua.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/07 - Como gerenciar a linguagem ubíqua.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/06 - Como extrair e definir a linguagem ubíqua.md",
-    "courses/desenvolvedor-io/Arquitetura de Software/8 - Arquitetura de Software/51 - Event Sourcing.md",
-    "courses/desenvolvedor-io/Arquitetura de Software/8 - Arquitetura de Software/50 - CQRS Query Responsibility Segregation.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua",
     "courses/udemy/Entendendo e documentando REST e RESTful APIs/_imagens/Pasted image 20230218084228.png",
     "courses/udemy/Entendendo e documentando REST e RESTful APIs/_imagens/Pasted image 20230226193659.png"
