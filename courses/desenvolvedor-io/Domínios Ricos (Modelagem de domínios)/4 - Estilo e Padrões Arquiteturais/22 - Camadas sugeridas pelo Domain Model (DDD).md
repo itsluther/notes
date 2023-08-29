@@ -1,0 +1,10 @@
+- Presentation Layer: Esta camada lida com a interação direta com os usuários ou sistemas externos. Ela exibe informações e coleta entrada do usuário, além de encaminhar comandos para a camada de aplicação. Geralmente, inclui interfaces de usuário, controladores, APIs e componentes de UI.
+- Business Layer: A camada de negócios é responsável por conter a lógica de negócios central da aplicação. Ela é dividida em duas subcamadas:
+    - Application Layer: Aqui, os casos de uso e fluxos de trabalho específicos da aplicação são implementados. Essa camada coordena a interação entre a camada de apresentação e a camada de domínio. Ela não contém lógica de negócios, mas orquestra os serviços do domínio para atender aos requisitos dos casos de uso.
+    - Domain Layer: A parte central do Domain-Driven Design reside nesta camada. Ela encapsula as regras de negócios, entidades, objetos de valor e os diversos conceitos do domínio. Essa camada é a verdadeira representação do conhecimento do domínio e deve ser independente das outras camadas. Aqui, a lógica de negócios é expressa em sua forma mais pura e abstrata.
+- Infrastructure Layer: Esta camada é responsável por implementar os detalhes técnicos e operacionais da aplicação. Ela lida com armazenamento de dados, integrações externas, comunicação com bancos de dados, envio de emails, entre outros. A infraestrutura suporta as outras camadas, mas não contém lógica de negócios significativa.
+
+É importante notar que o DDD sugere uma separação clara entre essas camadas para promover a modularidade, escalabilidade e manutenibilidade do software. Cada camada tem suas responsabilidades bem definidas, o que ajuda a lidar com a complexidade e a evolução contínua de sistemas de software baseados em domínio.
+
+---
+[[22 - Domain Model - Camada de apresentação]] - #domínios-ricos  #ddd #padrões-arquiteturais 

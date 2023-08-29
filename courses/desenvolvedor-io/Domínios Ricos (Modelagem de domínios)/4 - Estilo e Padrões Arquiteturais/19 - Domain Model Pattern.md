@@ -32,4 +32,4 @@ O Domain Model é uma abordagem arquitetural que se concentra na modelagem do do
 **Importante:** O Domain Model é mais adequado para sistemas com domínios de negócios complexos e regras de negócios interdependentes. Sistemas mais simples podem se beneficiar de abordagens mais leves, como o Transaction Script Pattern. A escolha da abordagem deve ser feita com base na natureza do projeto e nos requisitos específicos.
 
 ---
-[[20 - Arquitetura Cebola]] - #domínios-ricos #ddd #padrões-arquiteturais 
+[[20 - Arquitetura Cebola (Onion Architecture - Clean Architecture)]] - #domínios-ricos #ddd #padrões-arquiteturais 

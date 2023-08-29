@@ -4,11 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "acf7de51130739d8",
+        "id": "314802c877416778",
         "type": "tabs",
         "children": [
           {
-            "id": "0a0b9bc93aaf6a10",
+            "id": "53e85286fc570787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/23 - Domain Model - Camada de aplicação.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "942da0dad8887533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/24 - Domain Model - Camada de domínio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b99a7aa5785f7d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/25 - Domain Model - Camada de infraestrutura.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4458a4221fc401ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,57 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3633c5fa53c4b2ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/16 - Definindo um estilo arquitetural.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97ac02fbdf8a3aad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/17 - Transaction Script Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cbcf74f2773e34c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/18 - Table Module Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b947198a6c7cf3ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/19 - Domain Model Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/19 - Domain Model Pattern.md",
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/15 - A evolução dos estilos arquiteturais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/19 - Domain Model Pattern.md",
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/15 - A evolução dos estilos arquiteturais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/19 - Domain Model Pattern.md"
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/15 - A evolução dos estilos arquiteturais.md"
               }
             }
           }
@@ -195,13 +183,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9afb95b93c5f5dc5",
+  "active": "4458a4221fc401ea",
   "lastOpenFiles": [
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/18 - Table Module Pattern.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/25 - Domain Model - Camada de infraestrutura.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/24 - Domain Model - Camada de domínio.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/23 - Domain Model - Camada de aplicação.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/22 - Domain Model - Camada de apresentação.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/22 - Camadas sugeridas pelo Domain Model (DDD).md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/21 - Hexagonal Architecture \"Ports & Adapters\".md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/20 - Arquitetura Cebola (Onion Architecture - Clean Architecture).md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/19 - Domain Model Pattern.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/15 - A evolução dos estilos arquiteturais.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/18 - Table Module Pattern.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/17 - Transaction Script Pattern.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/16 - Definindo um estilo arquitetural.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/15 - A evolução dos estilos arquiteturais.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/5 - Modelagem Tática/26 - Modelagem Tática - Domain Module.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/5 - Modelagem Tática",
+    "courses/desenvolvedor-io/Arquitetura de Software/8 - Arquitetura de Software/48 - Onion Architecture (Clean Architecture).md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230828134155.png",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/14 - Tipos de relacionamento entre contextos.md",
     "courses/udemy/Entendendo e documentando REST e RESTful APIs/13 - Modelo de maturidade Richardson - Parte 3.md",
@@ -215,15 +213,6 @@
     "linguagens-de-programação/JavaScript/Methods/Method Filter.md",
     "courses/udemy/Modelagem de Dados UML/O que é modelagem de domínio e modelagem conceitual.md",
     "random-notes/CGroups.md",
-    "courses/udemy/Modelagem de Dados UML/Multiplicidade.md",
-    "courses/udemy/Modelagem de Dados UML/Modelo Conceitual - Conceitos e atributos.md",
-    "courses/udemy/Modelagem de Dados UML/Identificação de conceitos e atributos.md",
-    "courses/udemy/Entendendo e documentando REST e RESTful APIs/11 - Modelo de maturidade Richardson - Parte 1.md",
-    "Pasted image 20221017134530.png.md",
-    "courses/udemy/Entendendo e documentando REST e RESTful APIs/26 - JWT (JSON Web Tokens).md",
-    "courses/udemy/Entendendo e documentando REST e RESTful APIs/25 - Stateless Authentication (com OAuth).md",
-    "courses/udemy/Entendendo e documentando REST e RESTful APIs/24 - Autenticação baseada em Token.md",
-    "courses/udemy/Entendendo e documentando REST e RESTful APIs/23 - Autenticação com HTTP.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815131909.png",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images",
