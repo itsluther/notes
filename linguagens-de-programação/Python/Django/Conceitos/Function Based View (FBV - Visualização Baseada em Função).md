@@ -1,0 +1,5 @@
+- As Function-Based Views são uma maneira de definir as visualizações (views) no Django.
+- Uma view é uma função Python que recebe uma solicitação HTTP e retorna uma resposta HTTP.
+- As FBVs são definidas como funções que recebem um objeto de solicitação (geralmente chamado de `request`) como argumento e retornam um objeto de resposta (geralmente chamado de `HttpResponse`).
+- Elas são simples e diretas de usar, especialmente para casos de visualizações simples.
+- Um exemplo de uma FBV seria uma função que renderiza uma página de perfil de usuário quando um usuário faz login.

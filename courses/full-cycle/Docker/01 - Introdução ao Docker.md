@@ -9,7 +9,7 @@ Os containers são processos e subprocessos isolados que emulam um sistema opera
 - **Network Namespace**: Isola a pilha de rede do container, fornecendo interfaces de rede virtuais e endereços IP exclusivos para cada container.
 - **File System Namespace**: Isola o sistema de arquivos do container, fornecendo uma visão própria do sistema de arquivos para cada container.
 
-**[[CGroups]]** (ou Control Groups) são mecanismos utilizados para controlar e limitar o consumo de recursos pelos processos dentro de um container. Com o uso de cgroups, é possível reservar quantidades específicas de CPU, memória, I/O de disco e outros recursos para os processos dentro do container, garantindo que eles não interfiram nos recursos do restante do sistema.
+CGroups (ou Control Groups) são mecanismos utilizados para controlar e limitar o consumo de recursos pelos processos dentro de um container. Com o uso de cgroups, é possível reservar quantidades específicas de CPU, memória, I/O de disco e outros recursos para os processos dentro do container, garantindo que eles não interfiram nos recursos do restante do sistema.
 
 O **File System Overlay** (OFS) é um recurso importante no Docker. Ele permite trabalhar com camadas (layers) de forma individualizada e eficiente. Cada imagem do Docker é composta por camadas, e o OFS trabalha com a diferença entre essas camadas, sem alterar as dependências existentes. Dentro de um container, a imagem é considerada imutável, mas é possível criar uma camada de leitura e escrita (read/write) que permite fazer alterações no comportamento do container. Essas alterações podem ser posteriormente "commitadas" para criar uma nova versão da imagem.
 
