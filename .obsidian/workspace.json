@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb45c51dd0e7c57b",
+            "id": "895f6e13c71ea515",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/5 - Modelagem Tática/30 - Modelagem Tática - Serviços de Domínio.md",
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/34 - CQRS - Apresentação.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "39ec6bbd57ac55b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/34 - CQRS - Apresentação.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 316.5
   },
   "right": {
     "id": "34b770797b355c1b",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/5 - Modelagem Tática/30 - Modelagem Tática - Serviços de Domínio.md",
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/34 - CQRS - Apresentação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/5 - Modelagem Tática/30 - Modelagem Tática - Serviços de Domínio.md",
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/34 - CQRS - Apresentação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/5 - Modelagem Tática/30 - Modelagem Tática - Serviços de Domínio.md"
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/34 - CQRS - Apresentação.md"
               }
             }
           }
@@ -146,9 +159,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bb45c51dd0e7c57b",
+  "active": "39ec6bbd57ac55b9",
   "lastOpenFiles": [
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/35 - CQRS - Teorema CAP.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230906073225.png",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230906073222.png",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/34 - CQRS - Apresentação.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/6 - Modelagem Tática (Prática)/33 - Modelagem Tática - Repositório GitHub.md",
     "Sem título.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230906071558.png",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/5 - Modelagem Tática/32 - Modelagem Tática - Eventos de Domínio.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/6 - Modelagem Tática (Prática)",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/5 - Modelagem Tática/31 - Modelagem Tática - Repositories.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/5 - Modelagem Tática/30 - Modelagem Tática - Serviços de Domínio.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/5 - Modelagem Tática/29 - Modelagem Tática - Agregações.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/5 - Modelagem Tática/26 - Modelagem Tática - Domain Module.md",
@@ -173,14 +196,8 @@
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/22 - Domain Model - Camada de apresentação.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/22 - Camadas sugeridas pelo Domain Model (DDD).md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/21 - Hexagonal Architecture \"Ports & Adapters\".md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/20 - Arquitetura Cebola (Onion Architecture - Clean Architecture).md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/19 - Domain Model Pattern.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/18 - Table Module Pattern.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais/17 - Transaction Script Pattern.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/5 - Modelagem Tática",
-    "courses/desenvolvedor-io/Arquitetura de Software/8 - Arquitetura de Software/48 - Onion Architecture (Clean Architecture).md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230828134155.png",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/3 - Modelagem Estratégica/14 - Tipos de relacionamento entre contextos.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/4 - Estilo e Padrões Arquiteturais",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815131909.png",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images",
@@ -188,11 +205,6 @@
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815135159.png",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815135132.png",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815132814.png",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230815131939.png",
-    "courses/udemy",
-    "courses/desenvolvedor-io",
-    "idiomas",
-    "courses/udemy/Entendendo e documentando REST e RESTful APIs/_imagens/Pasted image 20230218084228.png",
-    "courses/udemy/Entendendo e documentando REST e RESTful APIs/_imagens/Pasted image 20230226193659.png"
+    "courses/udemy"
   ]
 }
