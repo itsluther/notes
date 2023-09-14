@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/34 - CQRS - Apresentação.md",
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/35 - CQRS - Teorema CAP.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/34 - CQRS - Apresentação.md",
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/35 - CQRS - Teorema CAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/34 - CQRS - Apresentação.md",
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/35 - CQRS - Teorema CAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/34 - CQRS - Apresentação.md"
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/35 - CQRS - Teorema CAP.md"
               }
             }
           }
@@ -161,11 +161,12 @@
   },
   "active": "39ec6bbd57ac55b9",
   "lastOpenFiles": [
+    "1",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/34 - CQRS - Apresentação.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/6 - Modelagem Tática (Prática)/33 - Modelagem Tática - Repositório GitHub.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/35 - CQRS - Teorema CAP.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230906073225.png",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230906073222.png",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/34 - CQRS - Apresentação.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/6 - Modelagem Tática (Prática)/33 - Modelagem Tática - Repositório GitHub.md",
     "Sem título.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230906071558.png",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS",
