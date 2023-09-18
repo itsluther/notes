@@ -1,0 +1,13 @@
+**Escolhendo o Método Adequado**
+
+Ao lidar com sistemas distribuídos e bancos de dados, a sincronização das informações entre diferentes bases de dados é uma tarefa crítica. Existem várias abordagens para alcançar esse objetivo, cada uma com suas próprias características e trade-offs. Aqui, discutiremos quatro métodos comuns de sincronização:
+
+1. **Síncrono:** Este método prioriza a consistência dos dados, seguindo o modelo CA (Consistência e Disponibilidade). Em uma sincronização síncrona, cada comando gera atualizações que são propagadas imediatamente para todas as bases de dados envolvidas. Isso garante que todas as leituras subsequentes vejam os dados mais recentes, mas tem o custo de reduzir a escalabilidade do sistema, já que a sincronização imediata pode introduzir latência significativa.
+2. **Assíncrono:** Em contraste com a sincronização síncrona, o método assíncrono segue o modelo AP (Disponibilidade e Tolerância a Particionamento). Aqui, cada comando gera atualizações de forma assíncrona, permitindo que o sistema continue respondendo às solicitações, mesmo que algumas bases de dados possam estar temporariamente desatualizadas. Essa abordagem favorece a disponibilidade, mas pode levar a uma consistência eventual dos dados.
+3. **Agendado:** A sincronização agendada envolve a execução periódica de um processo que gera atualizações. Este método permite um maior controle sobre quando as sincronizações ocorrem, mas também introduz a obsolescência de dados. A frequência com que o processo é executado determina por quanto tempo você está disposto a trabalhar com dados potencialmente desatualizados. É uma escolha comum quando a consistência imediata não é crítica.
+4. **Por Demanda:** A sincronização por demanda ocorre quando as atualizações são geradas apenas quando necessário. Isso geralmente envolve a consulta das bases de dados de escrita e leitura para verificar se estão em sincronia. Se uma diferença for detectada, a atualização é feita na base de leitura. Essa abordagem é eficiente, pois evita sincronizações desnecessárias, mas requer um mecanismo de detecção de diferenças eficaz.
+
+A escolha do método de sincronização depende dos requisitos específicos do sistema e das prioridades de consistência e disponibilidade. Em muitos casos, sistemas distribuídos optam por uma combinação desses métodos para atender às diferentes necessidades de diferentes partes do sistema. Portanto, é importante entender as características de cada abordagem e escolher a que melhor se adapte às demandas do seu sistema distribuído.
+
+---
+[[37 - CQRS - Command Stack - Query Stack]] - #ddd #domínios-ricos #cqrs 

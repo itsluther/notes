@@ -11,11 +11,28 @@
             "id": "39ec6bbd57ac55b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/36 - CQRS - Como sincronizar as bases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8abd958e42c39f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/37 - CQRS - Command Stack - Query Stack.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 436.5
   },
   "right": {
     "id": "34b770797b355c1b",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/37 - CQRS - Command Stack - Query Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/37 - CQRS - Command Stack - Query Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/37 - CQRS - Command Stack - Query Stack.md"
+              }
             }
           }
         ]
@@ -138,8 +159,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9afb95b93c5f5dc5",
+  "active": "f8abd958e42c39f5",
   "lastOpenFiles": [
+    "Pasted image 20230914082029.png",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/36 - CQRS - Como sincronizar as bases.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/37 - CQRS - Command Stack - Query Stack.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/34 - CQRS - Apresentação.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/35 - CQRS - Teorema CAP.md",
+    "courses/desenvolvedor-io/Arquitetura de Software/3 - OOP/18 - Interface x Implementação.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/6 - Modelagem Tática (Prática)/33 - Modelagem Tática - Repositório GitHub.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/1 - Visão Geral do DDD/03 - Visão Global do DDD.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/1 - Visão Geral do DDD/02 - Quando eu devo implementar o DDD.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/1 - Visão Geral do DDD/01 - DDD não é uma arquitetura de camadas.md",
     "linguagens-de-programação/Python/Django/Conceitos/Function Based View (FBV - Visualização Baseada em Função).md",
     "linguagens-de-programação/Python/Django/Conceitos/Class Based View (CBV - Visualização Baseada em Classe).md",
     "linguagens-de-programação/Python/Django/Conceitos/Apps.md",
@@ -157,16 +188,6 @@
     "linguagens-de-programação/JavaScript/POO in JavaScript/Polimorfismo.md",
     "linguagens-de-programação/JavaScript/POO in JavaScript/O que В POO.md",
     "linguagens-de-programação/JavaScript/POO in JavaScript/HeranЗa.md",
-    "linguagens-de-programação/JavaScript/POO in JavaScript/HeranЗa e cadeia de protвtipos (prototype).md",
-    "linguagens-de-programação/JavaScript/POO in JavaScript/Encapsulamento.md",
-    "linguagens-de-programação/JavaScript/POO in JavaScript/Classes.md",
-    "linguagens-de-programação/JavaScript/POO in JavaScript/Abstra├з├гo.md",
-    "linguagens-de-programação/JavaScript/NPM/Versionamento semГntico.md",
-    "linguagens-de-programação/JavaScript/Methods/Method Split.md",
-    "linguagens-de-programação/JavaScript/Methods/Method Sort.md",
-    "linguagens-de-programação/JavaScript/Methods/Method Some.md",
-    "linguagens-de-programação/JavaScript/Methods/Method Reduce.md",
-    "linguagens-de-programação/JavaScript/Methods/Method Map.md",
     "linguagens-de-programação/Python/Django",
     "linguagens-de-programação/JavaScript/Programação Funcional in JavaScript",
     "linguagens-de-programação/JavaScript/POO in JavaScript",
