@@ -31,3 +31,4 @@ Em resumo, o uso de Command Stack e Query Stack na arquitetura CQRS é uma abord
 ![[Pasted image 20230914082029.png]]
 
 ---
+[[38 - CQRS - Utilização de sagas]] - #ddd #domínios-ricos #cqrs 
