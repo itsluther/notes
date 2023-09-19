@@ -8,11 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23cdaf3879577fa0",
+            "id": "8999a5f6f5fbbe78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/9 - Event Sourcing/40 - Event Sourcing - O que é?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a75ea8b19852562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/9 - Event Sourcing/41 - Event Sourcing - Fatores Essenciais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "758b999a34eb698e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/10 - Event Sourcing (Prática)/42 - Event Sourcing Prática - Repositório GitHub.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "34b770797b355c1b",
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/9 - Event Sourcing/40 - Event Sourcing - O que é?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/9 - Event Sourcing/40 - Event Sourcing - O que é?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/9 - Event Sourcing/40 - Event Sourcing - O que é?.md"
+              }
             }
           },
           {
@@ -148,14 +181,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "23cdaf3879577fa0",
+  "active": "8999a5f6f5fbbe78",
   "lastOpenFiles": [
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/9 - Event Sourcing/41 - Event Sourcing - Fatores Essenciais.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/10 - Event Sourcing (Prática)/42 - Event Sourcing Prática - Repositório GitHub.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/10 - Event Sourcing (Prática)",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/9 - Event Sourcing/40 - Event Sourcing - O que é?.md",
+    "courses/desenvolvedor-io/Arquitetura de Software/8 - Arquitetura de Software/51 - Event Sourcing.md",
+    "courses/desenvolvedor-io/Arquitetura de Software/8 - Arquitetura de Software/52 - Domain-Driven Design.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/38 - CQRS - Utilização de sagas.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/9 - Event Sourcing/blank.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230918072230.png",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/9 - Event Sourcing",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/8 - CQRS (Prática)",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/8 - CQRS (Prática)/39 - CQRS Prática - Repositório GitHub.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/38 - CQRS - Utilização de sagas.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230918073122.png",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/37 - CQRS - Command Stack - Query Stack.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230914082029.png",
@@ -176,18 +215,12 @@
     "linguagens-de-programação/JavaScript/Programação Funcional in JavaScript/O que é programação funcional.md",
     "linguagens-de-programação/JavaScript/Programação Funcional in JavaScript/Imutabilidade.md",
     "linguagens-de-programação/JavaScript/Programação Funcional in JavaScript/Higher-order.md",
-    "linguagens-de-programação/JavaScript/Programação Funcional in JavaScript/Funções puras.md",
-    "linguagens-de-programação/JavaScript/Programação Funcional in JavaScript/Funções independentes.md",
-    "linguagens-de-programação/JavaScript/Programação Funcional in JavaScript/First-Class.md",
-    "linguagens-de-programação/JavaScript/Programação Funcional in JavaScript/Composição de funções.md",
-    "linguagens-de-programação/JavaScript/POO in JavaScript/Programa├з├гo Estruturada x Orientada a Objetos.md",
     "linguagens-de-programação/Python/Django",
     "linguagens-de-programação/JavaScript/Programação Funcional in JavaScript",
     "linguagens-de-programação/JavaScript/POO in JavaScript",
     "linguagens-de-programação/JavaScript/NPM",
     "linguagens-de-programação/JavaScript/Methods",
     "linguagens-de-programação/JavaScript/Basic JavaScript",
-    "linguagens-de-programação/JavaScript/Assíncrono e Promise",
     "courses/udemy/Modelagem de Dados UML/Imagens/associa├з├╡es_01.png",
     "courses/udemy/Modelagem de Dados UML/Imagens/Pasted image 20221017134414.png",
     "courses/udemy/Modelagem de Dados UML/Imagens/Pasted image 20221017134400.png",

@@ -11,7 +11,7 @@ Aqui estão algumas anotações sobre o Event Sourcing:
     - Em vez de armazenar apenas o estado atual da aplicação, cada ação ou comando que modifica o estado resulta na geração de um evento.
     - Os eventos são armazenados em uma ordem cronológica, permitindo que o estado atual seja reconstruído através da reprodução sequencial dos eventos.
 2. Eventos:
-    - Um evento é uma representação imutável e autocontida de uma mudança de estado em um sistema.
+    - Um evento é uma representação imutável e auto contida de uma mudança de estado em um sistema.
     - Cada evento deve conter informações suficientes para descrever a mudança ocorrida e ser capaz de reconstruir o estado em que o sistema se encontrava após a ocorrência do evento.
 3. Armazenamento de Eventos:
     - Os eventos são armazenados em um log de eventos (event log) persistente, geralmente em uma ordem estritamente sequencial, permitindo que novos eventos sejam adicionados no final do log.
@@ -38,4 +38,4 @@ O Event Sourcing oferece uma abordagem interessante para a construção de siste
 
 ---
 Próxima anotação: [[52 - Domain-Driven Design]]
-#arquitetura-de-software #padrões-arquiteturais
+#arquitetura-de-software #padrões-arquiteturais #event-sourcing 
