@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "591995aace590753",
+        "id": "e9f5e8a9207b029e",
         "type": "tabs",
         "children": [
           {
-            "id": "8999a5f6f5fbbe78",
+            "id": "1f8a228ac13f6eb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/9 - Event Sourcing/40 - Event Sourcing - O que é?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a75ea8b19852562",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/9 - Event Sourcing/41 - Event Sourcing - Fatores Essenciais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "758b999a34eb698e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/10 - Event Sourcing (Prática)/42 - Event Sourcing Prática - Repositório GitHub.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/9 - Event Sourcing/40 - Event Sourcing - O que é?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/9 - Event Sourcing/40 - Event Sourcing - O que é?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/9 - Event Sourcing/40 - Event Sourcing - O que é?.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,12 +148,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8999a5f6f5fbbe78",
+  "active": "1f8a228ac13f6eb6",
   "lastOpenFiles": [
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/9 - Event Sourcing/41 - Event Sourcing - Fatores Essenciais.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/10 - Event Sourcing (Prática)/42 - Event Sourcing Prática - Repositório GitHub.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/10 - Event Sourcing (Prática)",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/9 - Event Sourcing/41 - Event Sourcing - Fatores Essenciais.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/5 - Modelagem Tática/26 - Modelagem Tática - Domain Module.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/9 - Event Sourcing/40 - Event Sourcing - O que é?.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/10 - Event Sourcing (Prática)",
     "courses/desenvolvedor-io/Arquitetura de Software/8 - Arquitetura de Software/51 - Event Sourcing.md",
     "courses/desenvolvedor-io/Arquitetura de Software/8 - Arquitetura de Software/52 - Domain-Driven Design.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/7 - CQRS/38 - CQRS - Utilização de sagas.md",
