@@ -1,5 +1,7 @@
 **Introduzido em 2003 por Eric Evans:** Eric Evans publicou o livro "Domain-Driven Design: Tackling Complexity in the Heart of Software" em 2003, no qual ele apresentou o conceito de Domain-Driven Design como uma abordagem para enfrentar a complexidade em projetos de software.
 
+O Domain-Driven Design (DDD) é uma abordagem de design de software que se concentra na modelagem e organização do código em torno das complexidades do domínio de negócios, promovendo uma compreensão mais profunda e eficaz das regras e conceitos que governam um sistema.
+
 **Indicado para aplicações complexas, com muitas entidades e regras de negócio:** DDD é mais eficaz em domínios onde as regras de negócio são complexas e as interações entre diferentes entidades são intrincadas. Ele ajuda a lidar com a complexidade, criando um modelo de domínio que reflete com precisão essas complexidades.
 
 **Razoavelmente fácil de entender, difícil de aplicar:** Embora os conceitos do DDD possam ser compreendidos com relativa facilidade, sua aplicação prática pode ser desafiadora. Requer um profundo entendimento do domínio e a capacidade de traduzir esse entendimento em um modelo de domínio bem estruturado.
