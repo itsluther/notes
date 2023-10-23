@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28becde31a90a1ca",
+            "id": "fff45657622c0274",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "courses/desenvolvedor-io/Dominando os Testes de Software/1 - A importância de testar/04 - Mitos sobre os testes de software.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "courses/desenvolvedor-io/Dominando os Testes de Software/1 - A importância de testar/04 - Mitos sobre os testes de software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "courses/desenvolvedor-io/Dominando os Testes de Software/1 - A importância de testar/04 - Mitos sobre os testes de software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "courses/desenvolvedor-io/Dominando os Testes de Software/1 - A importância de testar/04 - Mitos sobre os testes de software.md"
+              }
             }
           },
           {
@@ -148,8 +156,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "28becde31a90a1ca",
+  "active": "fff45657622c0274",
   "lastOpenFiles": [
+    "courses/desenvolvedor-io/Dominando os Testes de Software/1 - A importância de testar/01 - Por que testar?.md",
+    "courses/desenvolvedor-io/Dominando os Testes de Software/1 - A importância de testar/02 - Como testar?.md",
+    "courses/desenvolvedor-io/Dominando os Testes de Software/1 - A importância de testar/03 - Regra 10 de Myers.md",
+    "courses/desenvolvedor-io/Dominando os Testes de Software/1 - A importância de testar/04 - Mitos sobre os testes de software.md",
+    "courses/desenvolvedor-io/Dominando os Testes de Software/_images",
+    "courses/desenvolvedor-io/Dominando os Testes de Software/_images/Pasted image 20231010184311.png",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/1 - Visão Geral do DDD/02 - Quando eu devo implementar o DDD.md",
+    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/1 - Visão Geral do DDD/01 - DDD não é uma arquitetura de camadas.md",
+    "courses/desenvolvedor-io/Dominando os Testes de Software/1 - A importância de testar",
+    "courses/desenvolvedor-io/Dominando os Testes de Software",
     "notes/Guia de estudo.md",
     "notes/Mudança de estrutura no CSP.md",
     "Sem título.md",
@@ -174,27 +192,17 @@
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/08 - Dicas essenciais.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/07 - Como gerenciar a linguagem ubíqua.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/06 - Como extrair e definir a linguagem ubíqua.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/05 - Papeis dentro de um projeto.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/2 - Linguagem Ubíqua/04 - Introdução Linguagem Ubíqua.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/1 - Visão Geral do DDD/03 - Visão Global do DDD.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/5 - Modelagem Tática/32 - Modelagem Tática - Eventos de Domínio.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/5 - Modelagem Tática/31 - Modelagem Tática - Repositories.md",
-    "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/5 - Modelagem Tática/30 - Modelagem Tática - Serviços de Domínio.md",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/10 - Event Sourcing (Prática)",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230918072230.png",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/9 - Event Sourcing",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/8 - CQRS (Prática)",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230918073122.png",
     "courses/desenvolvedor-io/Domínios Ricos (Modelagem de domínios)/_images/Pasted image 20230914082029.png",
-    "linguagens-de-programação/Python/Django/Conceitos",
-    "linguagens-de-programação/Python/Django",
-    "linguagens-de-programação/JavaScript/Programação Funcional in JavaScript",
     "courses/udemy/Modelagem de Dados UML/Imagens/associa├з├╡es_01.png",
     "courses/udemy/Modelagem de Dados UML/Imagens/Pasted image 20221017134414.png",
     "courses/udemy/Modelagem de Dados UML/Imagens/Pasted image 20221017134400.png",
     "courses/udemy/Modelagem de Dados UML/Imagens/Pasted image 20220824200358.png",
     "courses/udemy/Modelagem de Dados UML/Imagens/Pasted image 20220824200334.png",
-    "courses/udemy/Modelagem de Dados UML/Imagens/Pasted image 20220824200157.png",
-    "courses/udemy/Modelagem de Dados UML/Imagens/Pasted image 20220823223518.png"
+    "courses/udemy/Modelagem de Dados UML/Imagens/Pasted image 20220824200157.png"
   ]
 }
